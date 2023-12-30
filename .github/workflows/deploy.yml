@@ -46,7 +46,9 @@ jobs:
       - name: Build with VitePress
         run: |
           npm run docs:build # or pnpm docs:build / yarn docs:build / bun run docs:build
+          # Modify the file path here
           touch docs/.nojekyll
+          # Additional commands or modifications as needed
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
