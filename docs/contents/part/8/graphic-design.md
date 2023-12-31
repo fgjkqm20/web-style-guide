@@ -2,10 +2,6 @@
 prev:
   text: "Part 7 인터페이스 디자인"
   link: "/contents/part/7/interface-design"
-
-next:
-  text: "Part 9 타이포그래픽"
-  link: "/contents/part/9/typography"
 ---
 
 # Part 8 그래픽 디자인
