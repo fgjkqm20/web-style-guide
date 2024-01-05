@@ -1,3 +1,9 @@
+---
+prev:
+  text: "머리말"
+  link: "/contents/front-matter/foreword"
+---
+
 # Part 1 전략
 
 > 계속 그 단어를 사용하시는데, 제 생각에는 그 단어가 당신이 생각하는 의미와는 다르다고 생각합니다.<br>—이니고 몬토야, 공주 신부

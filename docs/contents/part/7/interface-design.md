@@ -1,3 +1,9 @@
+---
+prev:
+  text: "Part 6 페이지 구조"
+  link: "/contents/part/6/page-structure"
+---
+
 # 7장 인터페이스 디자인
 
 > 사물은 스스로 말할 수 없기 때문에 사물이 무엇인지, 무엇을 하는지 처럼 보이도록 만들어야 합니다.<br>—Ralph Caplan, <cite>By Design</cite>

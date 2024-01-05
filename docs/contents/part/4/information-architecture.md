@@ -1,4 +1,10 @@
-# 4장 정보 아키텍처
+---
+prev:
+  text: "Part 3 프로세스"
+  link: "/contents/part/3/process"
+---
+
+# Part 4 정보 아키텍처
 
 > 더 이상 제거할 것이 없을 때 정원이 완성됩니다. —선 격언
 

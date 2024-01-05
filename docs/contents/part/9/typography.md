@@ -2,10 +2,6 @@
 prev:
   text: "Part 8 그래픽 디자인"
   link: "/contents/part/8/graphic-design"
-
-next:
-  text: "Part 10 편집 스타일"
-  link: "/contents/part/8/editorial-style"
 ---
 
 # Part 9 타이포그래피

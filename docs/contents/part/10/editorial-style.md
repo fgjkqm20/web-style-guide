@@ -2,10 +2,6 @@
 prev:
   text: "Part 9 타이포그래픽"
   link: "/contents/part/9/typography"
-
-next:
-  text: "Part 11 이미지"
-  link: "/contents/part/11/images"
 ---
 
 # Part 10 편집 스타일

@@ -1,3 +1,9 @@
+---
+prev:
+  text: "Part 1 전략"
+  link: "/contents/part/1/strategy"
+---
+
 # Part 2 리서치
 
 > 모르는 사람이 있나요?

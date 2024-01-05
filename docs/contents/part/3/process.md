@@ -1,3 +1,9 @@
+---
+prev:
+  text: "Part 2 리서치"
+  link: "/contents/part/2/research"
+---
+
 # Part 3 프로세스
 
 > 이론상으로는 이론과 실제의 차이가 없습니다. 그러나 실제로는 있습니다. —요기 베라
