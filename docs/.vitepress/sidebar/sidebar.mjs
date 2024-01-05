@@ -13,8 +13,6 @@ import { part11 } from "./part/11.mjs";
 import { part12 } from "./part/12.mjs";
 
 export const sidebar = {
-  "/contents/front-matter": front_matter,
-  "/contents/part/1": part1,
   "/contents/part/2": part2,
   "/contents/part/3": part3,
   "/contents/part/4": part4,
@@ -26,4 +24,6 @@ export const sidebar = {
   "/contents/part/10": part10,
   "/contents/part/11": part11,
   "/contents/part/12": part12,
+  "/contents/part/1": part1,
+  "/contents/front-matter": front_matter,
 };
