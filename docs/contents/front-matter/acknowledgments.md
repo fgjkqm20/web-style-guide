@@ -6,7 +6,7 @@ next:
 
 # 감사의 말
 
-<cite>웹 스타일 가이드</cite>의 처음 세 판에 기여하고 이전 서문에서 인정한 모든 사람들 외에도 이 책을 제작하는 데 수고와 지도를 해주신 Yale University Press의 Jean Thomson Black, Samantha Ostrowski 및 Dan Heaton에게 감사드립니다. 네 번째 판. 우리는 특히 이 판의 서문을 제공한 Ethan Marcotte에게 감사하며, 이 안내서의 이전 판에 서문을 제공한 Peter Morville과 Louis Rosenfeld에게 감사드립니다.
+<cite>웹 스타일 가이드</cite>의 처음 세 판에 기여하고 이전 서문에서 인정한 모든 사람 외에도 이 책을 제작하는 데 수고와 지도를 해주신 Yale University Press의 Jean Thomson Black, Samantha Ostrowski 및 Dan Heaton에게 감사드립니다. 네 번째 판. 우리는 특히 이 판의 서문을 제공한 Ethan Marcotte에게 감사하며, 이 안내서의 이전 판에 서문을 제공한 Peter Morville과 Louis Rosenfeld에게 감사드립니다.
 
 ---
 
@@ -22,7 +22,7 @@ next:
 
 이번 <cite>웹 스타일 가이드</cite> 4판을 통해 축하하고 감사할 일이 많이 생겼습니다.
 
-나는 나의 소중한 친구이자 공동 저자인 Pat Lynch와의 20년 이상의 파트너십을 축하합니다. 우리의 협력과 우정은 1991년에 시작되었습니다. 그 때 그는 저를 자신의 지도 아래로 데려가서 Photoshop과 디자인, 스크립팅과 상호 작용, 우정과 협력, 음악과 삶에 대해 많은 것을 가르쳐 주었습니다. Pat은 내가 아는 사람 중 가장 재능 있고 다차원적인 사람이며, 큰 마음을 가지고 있습니다. 운명은 나를 팻의 길에 몰아넣었을 때 나를 친절하게 바라봤습니다.
+나는 나의 소중한 친구이자 공동 저자인 Pat Lynch와의 20년 이상의 파트너십을 축하합니다. 우리의 협력과 우정은 1991년에 시작되었습니다. 그때 그는 저를 자신의 지도 아래로 데려가서 Photoshop과 디자인, 스크립팅과 상호 작용, 우정과 협력, 음악과 삶에 대해 많은 것을 가르쳐 주었습니다. Pat은 내가 아는 사람 중 가장 재능 있고 다차원적인 사람이며, 큰마음을 가지고 있습니다. 운명은 나를 팻의 길에 몰아넣었을 때 나를 친절하게 바라봤습니다.
 
 저는 또한 Yale, Dartmouth, Harvard 등 고등교육 분야에서 20년 이상 근무한 것을 축하합니다. 배우고 성장하기에 이보다 더 좋은 곳은 없습니다. 저를 이끌어준 멘토와 친구들에게 감사드립니다. 이전 버전 이후 저는 하버드에서 웹 전략 프로젝트 리더로 시간을 보냈고, 그 자리에서 분산되고 자율적인 조직에서 사용자 경험 전략을 발전시키는 방법에 대해 많은 것을 배웠습니다. 저는 Perry Hewitt와 HPAC, HUIT, HWP(Harvard-speak for Harvard Public Affairs and Communications, Harvard University Information Technology, Harvard Web Publishing)의 모든 직원에게 지원과 격려, 성장 기회를 주신 것에 감사드립니다.
 
